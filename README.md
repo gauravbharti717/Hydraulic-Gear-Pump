@@ -18,7 +18,7 @@ This design demonstrates the **gear meshing principle** used for positive displa
 ---
 
 ## 🛠️ Tools Used
-- **CAD Modeling**: SolidWorks 2022
+- **CAD Modeling**: SolidWorks 2024
 - **Motion Simulation**: SolidWorks Motion Study
 
 ---
